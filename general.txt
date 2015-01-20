@@ -5,17 +5,23 @@ http://steamcommunity.com/groups/a3g
 Check out the discussions!
 
 > Setting up Arma 3 for /a3g/ - Everything you need. Instructions on how to download our mods with Btsync and a great collection of optional mods that improve the game
-https://github.com/a3g/a3g-information/wiki/BTSync-Guide
+https://github.com/a3g/a3g-information/wiki/Guide-to-a3g-mod-installation
+TFAR Guide
+https://github.com/a3g/a3g-information/wiki/Setting-up-and-using-TFAR
 Optional Mod Pack to enhance Arma
-https://github.com/a3g/a3g-information/wiki/Optional-Mod-Pack
+https://github.com/a3g/a3g-information/wiki/Mod-Pack-Optional
 
-> ACRE Guide - How to set it up, troubleshooting and tips
-https://github.com/a3g/a3g-information/wiki/ACRE-Guide
+> /a3g/ Wiki
+https://github.com/a3g/a3g-information/wiki
+
+>How to get more frames out of Arma
+http://forums.whatthefrag.net/topic/81-arma-3virtuality%E2%84%A2-4-engine-performance-tweaks-and-settings-guide-by-terminus/
 
 > Server info
-Note: You need to be synced up with BTsync and have ACRE working to play.
+Note: You need to be synced up with BTsync and have TFAR working to play.
 Server: http://arma3.swec.se/server/data/62993
-Death Mittens, Derpycobra and Drezzo have access for uploading missions. If you would like a mission uploaded post it here http://steamcommunity.com/groups/a3g/discussions/0/558754260292149185/
+If you would like a mission uploaded post it here http://steamcommunity.com/groups/a3g/discussions/0/558754260292149185/
+
 
 > Dev stuff / tracker tickets
 https://github.com/a3g/a3g-information/wiki/-a3g--Dev-stuff---tracker-tickets
@@ -24,5 +30,8 @@ Stuff for making missions is in here, as well as links to /a3g/ tracker tickets
 > REPORT ISSUES ON THE DEVTRACKER
 http://feedback.arma3.com/bug_report_page.php
 Help BIS make the game less shit
+
+> Official Youtube channel
+https://www.youtube.com/channel/UCAx8N8LyTczCG1gwgzSWzDw/videos
 
 Old thread:
