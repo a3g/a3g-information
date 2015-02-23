@@ -22,7 +22,6 @@ Note: You need to be synced up with BTsync and have TFAR working to play.
 Server: http://arma3.swec.se/server/data/62993
 If you would like a mission uploaded post it here http://steamcommunity.com/groups/a3g/discussions/0/558754260292149185/
 
-
 > Dev stuff / tracker tickets
 https://github.com/a3g/a3g-information/wiki/-a3g--Dev-stuff---tracker-tickets
 Stuff for making missions is in here, as well as links to /a3g/ tracker tickets
