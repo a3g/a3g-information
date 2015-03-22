@@ -1,4 +1,4 @@
-<Insert personalization> Edition
+Edition Edition
 
 > Steam group
 http://steamcommunity.com/groups/a3g
@@ -14,8 +14,8 @@ https://github.com/a3g/a3g-information/wiki/Mod-Pack-Optional
 > /a3g/ Wiki
 https://github.com/a3g/a3g-information/wiki
 
->How to get more frames out of Arma
-http://forums.whatthefrag.net/topic/81-arma-3virtuality%E2%84%A2-4-engine-performance-tweaks-and-settings-guide-by-terminus/
+> How to get more frames out of Arma
+http://sealteamsloth.com/topic/10331-arma-3virtuality™-4-engine-performance-tweaks-and-settings-guide/
 
 > Server info
 Note: You need to be synced up with BTsync and have TFAR working to play.
@@ -33,4 +33,4 @@ Help BIS make the game less shit
 > Official Youtube channel
 https://www.youtube.com/channel/UCAx8N8LyTczCG1gwgzSWzDw/videos
 
-Old thread:
+Last thread: >>12345678
