@@ -6,8 +6,8 @@ Check out the discussions!
 
 > Setting up Arma 3 for /a3g/ - Everything you need. Instructions on how to download our mods with Btsync and a great collection of optional mods that improve the game
 https://github.com/a3g/a3g-information/wiki/Guide-to-a3g-mod-installation
-TFAR Guide
-https://github.com/a3g/a3g-information/wiki/Setting-up-and-using-TFAR
+ACRE Guide
+https://github.com/a3g/a3g-information/wiki/Setting-up-and-using-ACRE
 Optional Mod Pack to enhance Arma
 https://github.com/a3g/a3g-information/wiki/Mod-Pack-Optional
 
